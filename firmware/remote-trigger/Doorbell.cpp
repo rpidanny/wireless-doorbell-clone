@@ -7,7 +7,7 @@ Doorbell::Doorbell(uint8_t pin, uint16_t bit_length, uint16_t frame_spacing, boo
   _bit_length = bit_length;
   _frame_spacing = frame_spacing;
 
-  PinMode(_pin, OUTPUT);
+  pinMode(_pin, OUTPUT);
 }
 
 void Doorbell::ring(uint8_t times) {
