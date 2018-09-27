@@ -1,18 +1,10 @@
-# Data Properties
+# Data Frame
 
-## Frame length
+`01010011001010101101010011001010101`
 
-`0.025` seconds = `25` miliseconds
+`0` = Short Pulse
+`1` = Long Pulse
+The bit is toggeled on each pulse
 
-## Bit period
-
-`0.0005` seconds = `0.5` miliseconds = `500` microseconds
-
-## Frame data
-
-`1001001011001011011011011001001001011001011011011011`
-`1001001011001011011011011001001001011001011011011011`
-
-## Frame spacing
-
-`0.006` seconds = `6` miliseconds
+Initially `LOW`, then toggeled to `HIGH` on first pulse.
+Stays `HIGH` for the duration of the pulse. Then repeat toggle and delay.
