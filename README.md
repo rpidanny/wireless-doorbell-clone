@@ -30,6 +30,10 @@ Flash the contents of `firmware/arduino/remote-trigger` to your arduino board.
 
 Flash the contents of `firmware/micropython/remote-trigger` to your arduino board.
 
+## RF Details
+
+See the [notes file](QH831A) file for the reverse engineered data frame of the remote.
+
 ## License
 
 This project is licensed under the MIT License - see the [license file](LICENSE) file for details
