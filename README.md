@@ -6,6 +6,8 @@ Reverse engineering a [Grundig QH-831A wireless doorbell](https://www.coolblue.n
 
 Obviously to prank some unsuspecting victims :grin:
 
+See the [QH831A.md](QH831A.md) file for the reverse engineered data frame of the remote.
+
 ## Requirements
 
 ### Hardware
@@ -29,10 +31,6 @@ Flash the contents of `firmware/arduino/remote-trigger` to your arduino board.
 ### MicroPython
 
 Flash the contents of `firmware/micropython/remote-trigger` to your arduino board.
-
-## RF Details
-
-See the [QH831A.md](QH831A.md) file for the reverse engineered data frame of the remote.
 
 ## License
 
