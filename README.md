@@ -29,3 +29,7 @@ Flash the contents of `firmware/arduino/remote-trigger` to your arduino board.
 ### MicroPython
 
 Flash the contents of `firmware/micropython/remote-trigger` to your arduino board.
+
+## License
+
+This project is licensed under the MIT License - see the [license file](LICENSE) file for details
