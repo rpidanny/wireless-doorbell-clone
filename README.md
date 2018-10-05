@@ -32,7 +32,7 @@ Flash the contents of `firmware/micropython/remote-trigger` to your arduino boar
 
 ## RF Details
 
-See the [notes file](QH831A) file for the reverse engineered data frame of the remote.
+See the [QH831A.md](QH831A.md) file for the reverse engineered data frame of the remote.
 
 ## License
 
