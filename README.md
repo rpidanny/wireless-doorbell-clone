@@ -4,7 +4,7 @@
 
 Reverse engineering a [Grundig wireless doorbell](https://www.coolblue.nl/product/764783/grundig-draadloze-deurbel-1-ontvanger-netstroom.html) and cloning it's remote so that it can be triggered remotely.
 
-(Obviously to prank some unsuspecting victims :D)
+Obviously to prank some unsuspecting victims :grin:
 
 ## Requirements
 
